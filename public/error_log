@@ -1,0 +1,51 @@
+[20-Oct-2021 11:12:48 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/ozmbvev9inpv/public_html/vendor/composer/platform_check.php on line 25
+[29-Oct-2021 06:37:30 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ozmbvev9inpv/public_html/storage/framework/views/5d04fa4d9786a8c81d03aa87ec11e50af00f1a08.php on line 50
+[29-Oct-2021 06:37:44 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ozmbvev9inpv/public_html/storage/framework/views/5d04fa4d9786a8c81d03aa87ec11e50af00f1a08.php on line 50
+[29-Oct-2021 06:38:22 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ozmbvev9inpv/public_html/storage/framework/views/5d04fa4d9786a8c81d03aa87ec11e50af00f1a08.php on line 50
+[29-Oct-2021 06:38:30 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ozmbvev9inpv/public_html/storage/framework/views/5d04fa4d9786a8c81d03aa87ec11e50af00f1a08.php on line 50
+[29-Oct-2021 06:38:41 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ozmbvev9inpv/public_html/storage/framework/views/5d04fa4d9786a8c81d03aa87ec11e50af00f1a08.php on line 50
+[03-Apr-2023 17:28:00 UTC] PHP Fatal error:  Can't use method return value in write context in /home/ozmbvev9inpv/public_html/storage/framework/views/5a9e10ef9d68c36be101244534af7086723cbe40.php on line 61
+[01-Aug-2023 03:55:23 UTC] PHP Warning:  require_once(/home/ozmbvev9inpv/megaamart.in/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home/ozmbvev9inpv/megaamart.in/vendor/autoload.php on line 5
+[01-Aug-2023 03:55:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ozmbvev9inpv/megaamart.in/vendor/composer/autoload_real.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ozmbvev9inpv/megaamart.in/vendor/autoload.php on line 5
+[01-Aug-2023 03:55:23 UTC] PHP Warning:  require_once(/home/ozmbvev9inpv/megaamart.in/bootstrap/app.php): failed to open stream: No such file or directory in /home/ozmbvev9inpv/megaamart.in/public/index.php on line 47
+[01-Aug-2023 03:55:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ozmbvev9inpv/megaamart.in/bootstrap/app.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ozmbvev9inpv/megaamart.in/public/index.php on line 47
+[01-Aug-2023 04:22:31 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 49152 bytes) in /home/ozmbvev9inpv/megaamart.in/storage/framework/views/90375696500347c2b2f8018a9728d072d0044049.php on line 397
+[03-Aug-2023 07:16:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 63
+[30-Aug-2023 12:23:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:23:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:23:09 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:23:09 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:23:10 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:23:10 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:23:11 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:23:11 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:24:03 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:24:03 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:24:07 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:24:07 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:24:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:24:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Aug-2023 12:24:08 UTC] PHP Parse error:  syntax error, unexpected '|', expecting variable (T_VARIABLE) in /home/ozmbvev9inpv/public_html/vendor/psr/log/src/LoggerInterface.php on line 30
+[30-Aug-2023 12:24:08 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[29-Jan-2024 13:36:00 UTC] PHP Warning:  include(/home/ozmbvev9inpv/megaamart.in/vendor/composer/../../app/Http/Kernel.php): failed to open stream: No such file or directory in /home/ozmbvev9inpv/megaamart.in/vendor/composer/ClassLoader.php on line 571
+[29-Jan-2024 13:36:00 UTC] PHP Warning:  include(): Failed opening '/home/ozmbvev9inpv/megaamart.in/vendor/composer/../../app/Http/Kernel.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ozmbvev9inpv/megaamart.in/vendor/composer/ClassLoader.php on line 571
+[29-Jan-2024 13:36:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class App\Http\Kernel does not exist in /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct('App\\Http\\Kernel')
+#1 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build('App\\Http\\Kernel')
+#2 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve('App\\Http\\Kernel', Array, false)
+#3 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(294): Illuminate\Foundation\Application->resolve('App\\Http\\Kernel', Array, false)
+#4 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php(869): Illuminate\Container\Container->Illuminate\Containe in /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[29-Jan-2024 13:36:14 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(586): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(567): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(478): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/ozmbvev9inpv/megaamart.in/v in /home/ozmbvev9inpv/megaamart.in/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[28-Feb-2024 05:57:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
+[28-Feb-2024 05:57:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
+[28-Feb-2024 05:57:48 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
+[28-Feb-2024 05:58:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
+[28-Feb-2024 05:58:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
+[28-Feb-2024 05:58:38 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\User\HomeController::addCartList() in /home/ozmbvev9inpv/megaamart.in/app/Http/Controllers/User/HomeController.php on line 327
